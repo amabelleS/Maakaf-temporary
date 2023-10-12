@@ -5,19 +5,19 @@ title: מעקף - אתר זמני
 {{< blocks/cover title="ברוכים הבאים לאתר של קהילת מעקף" image_anchor="top" height="full" >}}
 
 <div dir="rtl">
-  <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  <a class="btn btn-lg btn-primary me-3 mb-4" href="/newbies/">
     Newbies<br>
     פעם ראשונה בקוד פתוח<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
   </a>
 
-  <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  <a class="btn btn-lg btn-primary me-3 mb-4" href="/members/">
     Members<br>
   מי שכבר התנסה בקוד פתוח<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
   </a>
 
-  <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  <a class="btn btn-lg btn-primary me-3 mb-4" href="/maintainers/">
     Maintainers<br>
   בעלי פרוייקטים שרוצים להצטרף<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
@@ -25,11 +25,11 @@ title: מעקף - אתר זמני
     
   <br>
   
-  <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+  <a class="btn btn-lg btn-primary me-3 mb-4" href="/sponsors/">
     Sponsors<br>
   חברות עסקיות שרוצות לתמוך בקהילה<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
-    <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
+    <a class="btn btn-lg btn-primary me-3 mb-4" href="/recruiters/">
     Recruiters<br>
   מגייסים שרוצים לגייס חברי קהילה מוכשרים<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
