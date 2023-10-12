@@ -34,62 +34,64 @@ title: מעקף - אתר זמני
   מגייסים שרוצים לגייס חברי קהילה מוכשרים<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
   </a>
+
+קהילת מעקף היא קהילת קוד פתוח ישראלית. אנחנו מעוניינים לעודד חדשנות, יצירתיות ומענה לבעיות הקיימות בעולם הפיתוח היום.
+
+הרבה מפתחים מסתמכים על ספריות קוד פתוח כדי לתמוך בבסיס הקוד הקיים, כמה מהספריות המשומשות ביותר היום הן ספריות קוד פתוח ואנחנו מעוניינים ולעודד את קיומה של קהילה זו ולבסס אותה לאחת מקהילות המתכנתים הפוריות בארץ.
+
+אנחנו מאמינים כי התרומה לקוד פתוח יכולה להוות פתח למציאת כישרונות לא צפויים בעולם הפיתוח, וזה יכול לעזור למגייסים ולמובילים בחברות השונות למצוא אנשים איכותיים ולבסס את האיכויות שלהם בצורה מהירה יותר מתהליך הגיוס כיום. אנחנו מאמינים כי יש אנשים כישרוניים, עם מוטיבציה גבוהה ללמידה בקהילה זו נשמח לתמיכתכם.
+
 </div>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
-{{% blocks/lead color="primary" %}}
-Goldydocs provides a single web UI providing visibility into porridge
-temperature, chair size, and bed softness metrics! You can even find out who's
-been eating **your** porridge.
+{{% blocks/lead color="secondary" %}}
+<div dir="rtl">
 
-(Sadly, Goldydocs isn't a real project, but you can use this site as an example
-to create your own real websites with [Docsy](https://docsy.dev))
+אם אתם מתכנתים <b>ממש חדשים </b> לעולם הקוד הפתוח, <br> 
+כתבנו במיוחד בשבילכם הדרכה והעלינו גם סרטונים ליוטיוב כדי ללמד אתכם - <br>
+מה הצעדים הראשונים שצריך לעשות כדי להצטרף לעולם הקוד הפתוח?
+
+</div>
 {{% /blocks/lead %}}
 
-{{% blocks/section color="dark" type="row" %}}
-{{% blocks/feature icon="fa-lightbulb" title="New chair metrics!" %}}
-The Goldydocs UI now shows chair size metrics by default.
+{{% blocks/lead color="gray" %}}
+<div dir="rtl">
 
-Please follow this space for updates!
-{{% /blocks/feature %}}
+אם אתם מתכנתים <b>שכבר מנוסים בתרומה לקוד פתוח</b>, <br> 
+מוזמנים להצטרף לפעילות בקהילה שלנו - <br>
+איך מצטרפים לפעילות בקהילת מעקף?
+</div>
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!" url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls) contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
+{{% /blocks/lead %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!" url="https://twitter.com/docsydocs" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
+{{% blocks/lead color="secondary" %}}
+<div dir="rtl">
 
-{{% /blocks/section %}}
+אם אתם <b>מתחזקים של ספריית קוד פתוח</b>, <br> 
+מוזמנים להוסיף את הפרוייקט שלכם לפעילות בקהילה - <br>
+איך מצרפים פרוייקט חדש לקהילה?
+</div>
 
-{{% blocks/section %}}
-This is the second section
-{.h1 .text-center}
-{{% /blocks/section %}}
+{{% /blocks/lead %}}
 
-{{% blocks/section type="row" %}}
+{{% blocks/lead color="gray" %}}
+<div dir="rtl">
 
-{{% blocks/feature icon="fab fa-app-store-ios" title="Download **from AppStore**" %}}
-Get the Goldydocs app!
-{{% /blocks/feature %}}
+אם אתם <b>חברות שמעוניינות לחזק את הקהילה</b>, <br>
+אתם מוזמנים להצטרף לקהילה כספונסרים - <br>
+איך אפשר להיות ספונסר של קהילת מעקף?
+</div>
 
-{{% blocks/feature icon="fab fa-github" title="Contributions welcome!"
-    url="https://github.com/google/docsy-example" %}}
-We do a [Pull Request](https://github.com/google/docsy-example/pulls)
-contributions workflow on **GitHub**. New users are always welcome!
-{{% /blocks/feature %}}
+{{% /blocks/lead %}}
 
-{{% blocks/feature icon="fab fa-twitter" title="Follow us on Twitter!"
-    url="https://twitter.com/GoHugoIO" %}}
-For announcement of latest features etc.
-{{% /blocks/feature %}}
+{{% blocks/section color="secondary" type="row" %}}
 
-{{% /blocks/section %}}
+<div dir = "rtl"  style ="text-align: center; font-size: 130%">
 
-{{% blocks/section %}}
-This is the another section
-{.h1 .text-center}
+אם אתם <b>מגייסים מתכנתים</b>, <br>
+מוזמנים להכיר את חברי הקהילה ולמצוא מביניהם מתכנת שיתאים למשרה שלכם - <br>
+איך מגייסים מתכנתים דרך קהילת מעקף?
+</div>
 {{% /blocks/section %}}
