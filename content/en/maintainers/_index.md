@@ -1,7 +1,8 @@
 ---
 title: Maintainers
 linkTitle: Maintainers
-menu: {main: {weight: 80}}
+menu: {main: {weight: 100}}
+type: "docs"
 weight: 20
 ---
 

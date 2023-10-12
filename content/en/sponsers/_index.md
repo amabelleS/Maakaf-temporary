@@ -2,6 +2,7 @@
 title: Sponsors
 linkTitle: Sponsors
 menu: {main: {weight: 60}}
+type: "docs"
 weight: 20
 ---
 
