@@ -6,25 +6,31 @@ type: "docs"
 weight: 20
 ---
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+<div dir="rtl">
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+ברוכים הבאים לשרת של ״מעקף״- קהילת קוד פתוח בישראל.
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
+כמה דברים שכדאי לכם לדעת:
+נשמח מאד שתציגו את עצמכם בערוץ ⁠(intros), <br>
+בערוץ ⁠free-chat אתם יכולים לכתוב מה שבא לכם.
 
-Other content such as marketing material, case studies, and community updates
-should live in the [About](/about/) and [Community](/community/) pages.
+יש קטגוריות של פרוייקטים לפי טכנולוגיות, בכל קטגוריה נמצאים ערוצים לפרוייקטים של קוד פתוח. לכל פרוייקט יש ערוץ משלו, עם פרטים מלאים בתיאור של הערוץ.
+למשל לפרוייקט של אתר הקהילה יש את הערוץ
+ ⁠maakaf-website 
 
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+מוזמנים לשים קישור ללינקדין או רשתות חברתיות אחרות כדי שנכיר גם שם, בערוץ הזה-
+⁠boost-my-profile 
+כדאי מאד לעבור בערוץ ⁠role-yourself כדי שמי שיפגוש אתכם בקהילה יוכל להבין בקלות מה המטרות שלכם ומה היכולות שכלם.
+אם לא תרמתם מעולם לקוד פתוח אפשר לתרגל תרומה ראשונה (סך הכל להוסיף קובץ טקסט לפרוייקט) בערוץ ⁠os-practice שמפנה לריפו תרגול קוד פתוח.
+
+בוואטסאפ יש קבוצת עדכונים שקטה: https://chat.whatsapp.com/CCFkZwKn3oD8kJoRLms7ts
+וגם קבוצה לפטפוטים: https://chat.whatsapp.com/E5a59DtSaHNBwnczxVW1FY
+
+ויש גם ערוץ יוטיוב של הקהילה https://www.youtube.com/@maakaf-os
+מומלץ לצפות בפלייליסט של מבוא לקוד פתוח: https://youtube.com/playlist?list=PLFP8kbJw2mot-6WSKS3_4Fmmx-30w6-tj
+
+אנחנו מקווים שתרגישו פה נעים, ובחופשיות תתחילו לשאול ולכתוב בערוצים השונים.
+אם אתם נבוכים מהסיטואציה ומעדיפים שמישהו יסביר לכם באופן פרטי איך אתם יכולים להשתלב,
+אז תכתבו הודעה פרטית למנהל הקהילה- @Uriel Ofir 🐧 וביחד תמצאו איך אתם יכולים להתחבר לפעילות המדהימה שיש בשרת שלנו.
+
+</div>
