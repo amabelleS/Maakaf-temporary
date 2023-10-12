@@ -27,5 +27,4 @@ weight: 20
 בנוסף, יש את [ערוץ יוטיוב של הקהילה](https://www.youtube.com/@maakaf-os). ומומלץ לצפות ב[פלייליסט מבוא לקוד פתוח](https://youtube.com/playlist?list=PLFP8kbJw2mot-6WSKS3_4Fmmx-30w6-tj).
 
 אנחנו מקווים שתרגישו פה נעים ושתהתכנים באתר ימצאו מועילים לכם.
-
 </div>
