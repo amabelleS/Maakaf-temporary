@@ -1,7 +1,7 @@
 ---
-title: Documentation
-linkTitle: Docs
-menu: {main: {weight: 20}}
+title: Members
+linkTitle: Members
+menu: {main: {weight: 90}}
 weight: 20
 ---
 

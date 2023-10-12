@@ -26,7 +26,7 @@ title: מעקף - אתר זמני
   <br>
   
   <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-    Sponsers<br>
+    Sponsors<br>
   חברות עסקיות שרוצות לתמוך בקהילה<br>
     <i class="fas fa-arrow-alt-circle-left ms-2"></i>
     <a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">

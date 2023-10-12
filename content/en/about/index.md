@@ -1,6 +1,6 @@
 ---
-title: About Goldydocs
-linkTitle: About
+title: אודות מעקף
+linkTitle: אודות
 menu: {main: {weight: 10}}
 ---
 
