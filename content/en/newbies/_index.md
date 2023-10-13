@@ -39,6 +39,5 @@ weight: 20
 מוזמנים להצטרף לפעילות של הקהילה ב[שרת הדיסקורד](https://discord.gg/a2VyCjRk2M).
 בנוסף, יש את [ערוץ יוטיוב של הקהילה](https://www.youtube.com/@maakaf-os). ומומלץ לצפות ב[פלייליסט מבוא לקוד פתוח](https://youtube.com/playlist?list=PLFP8kbJw2mot-6WSKS3_4Fmmx-30w6-tj).
 
-
 אנחנו מקווים שתרגישו פה נעים ושהתכנים באתר ימצאו מועילים לכם.
 </div>
