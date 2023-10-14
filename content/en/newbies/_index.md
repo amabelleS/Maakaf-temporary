@@ -12,11 +12,11 @@ weight: 20
 <br>
 <h3>קהילת קוד פתוח בישראל 🌐</h3>
 
-<b>הצטרפו אלינו בדיסקורד:</b> <a href="https://discord.gg/WxqmcKfD5R">לחצו כאן</a>
+<b>הצטרפו אלינו בדיסקורד:</b> <a target= "_blank" href="https://discord.gg/WxqmcKfD5R">לחצו כאן</a>
 
 <h4>למה בכלל לתרום לקוד פתוח?</h4>
 
-<b>מתכנתים מנוסים?</b> במהלך התרומה שלכם לקוד פתוח, מתכנתים אחרים שמנוסים בטכנולוגיות, יעברו על הקוד שרשמתם וייתנו לכם פידבק אמיתי, וידחפו אותכם קדימה.
+<b>מתכנתים מנוסים?</b> במהלך התרומה שלכם לקוד פתוח, מתכנתים אחרים שמנוסים בטכנולוגיות, יעברו על הקוד שרשמתם וייתנו לכם פידבק אמיתי, וידחפו אתכם קדימה.
 
 <b>ג'וניורים?</b> בנוסף ללמידה ושיפור היכולות, תרומה לקוד פתוח זה הדבר הקרוב ביותר לנסיון אמיתי שתוכלו לרכוש לבד. קוד שתכתבו ועבר code review ע״י סניור בתעשיה והתקבל, מוסיף המון לרזומה שלכם ומוכיח יכולת כתיבת קוד ברמה גבוהה.
 
@@ -38,10 +38,10 @@ weight: 20
 יש גם [מדריך מפורט שמסביר איך לתרום לפרוייקט הזה](https://github.com/UrielOfir/os-practice).
 
 <h4>קישורים נוספים:</h4>
-<b>קבוצת עדכונים שקטנה בוואטספ:</b> <a href="https://chat.whatsapp.com/CCFkZwKn3oD8kJoRLms7ts">כאן</a><br>
-<b>קבוצת וואטספ עם צ'אט חופשי:</b> <a href="https://chat.whatsapp.com/E5a59DtSaHNBwnczxVW1FY">כאן</a><br>
-<b>יש ערוץ ביוטיוב עם מדריכים והכוונות:</b> <a href="https://www.youtube.com/@maakaf-os">כאן</a><br>
-<b>ופלייליסט שנועד לעזור לכם להכנס לעולם של הקוד הפתוח: </b> <a href="https://youtube.com/playlist?list=PLFP8kbJw2mot-6WSKS3_4Fmmx-30w6-tj">כאן</a>
+<b>קבוצת עדכונים שקטנה בוואטספ:</b> <a target= "_blank" href="https://chat.whatsapp.com/CCFkZwKn3oD8kJoRLms7ts">כאן</a><br>
+<b>קבוצת וואטספ עם צ'אט חופשי:</b> <a target= "_blank" href="https://chat.whatsapp.com/E5a59DtSaHNBwnczxVW1FY">כאן</a><br>
+<b>יש ערוץ ביוטיוב עם מדריכים והכוונות:</b> <a target= "_blank" href="https://www.youtube.com/@maakaf-os">כאן</a><br>
+<b>ופלייליסט שנועד לעזור לכם להכנס לעולם של הקוד הפתוח: </b> <a target= "_blank" href="https://youtube.com/playlist?list=PLFP8kbJw2mot-6WSKS3_4Fmmx-30w6-tj">כאן</a>
 <br>
 <br>
 <b>נתקעתם? צריכים עזרה?</b>
